@@ -5,7 +5,7 @@ a = 12
 b = 17.5
 
 # string or str
-c = "Hello World"
+c = "google"
 
 # boolean or bool
 d = True
